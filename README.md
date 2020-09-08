@@ -14,18 +14,18 @@ Biconomy is a scalable transaction layer infrastructure which can pay blockchain
 
    Here is the link on how to register the Dapp in Biconomy Dashboard.
    https://docs.biconomy.io/biconomy-dashboard
-   i) Register Dapp and choose the network
-   ii) Add smart contracts details with deployed address and abi
-   iii) Configure api. These are the methods for which you need gasless transactions.
+     i) Register Dapp and choose the network
+     ii) Add smart contracts details with deployed address and abi
+     iii) Configure api. These are the methods for which you need gasless transactions.
    
-3. Integrate your Dapp with Bicnomy
+3. Integrate your Dapp with Biconomy
 
     Here is the link on how to use Biconomy SDK with your Dapp.
     https://docs.matic.network/docs/develop/metatransactions/metatransactions-biconomy
     It is just a three step process:
-    i) Install SDK
-    ii) Initialize Biconomy
-    iii) Initialize Dapp
+     i) Install SDK
+     ii) Initialize Biconomy
+     iii) Initialize Dapp
     
 4. Run the applications
    npm start
