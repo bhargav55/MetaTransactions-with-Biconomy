@@ -1,4 +1,4 @@
-# MetaTransactions-with-Biconomy
+# MetaTransactions with Biconomy
 
 This is a simple Dapp to perform meta transactions on Matic testnet(Mumbai) network using Biconomy.
 
