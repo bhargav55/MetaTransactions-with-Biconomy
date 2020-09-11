@@ -28,6 +28,7 @@ Biconomy is a scalable transaction layer infrastructure which can pay blockchain
      iii) Initialize Dapp
     
 4. Run the applications
+
    npm start
    
    The application tries to invoke the transaction i.e., invoke contract method. But you dont need to pay the gas fee.
